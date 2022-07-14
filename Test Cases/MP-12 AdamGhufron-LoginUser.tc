@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: AdamGhufron-LoginUser
+Description: </description>
+   <name>MP-12 AdamGhufron-LoginUser</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10031&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i00067:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://timbelajar1.atlassian.net/&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;MP&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;Mobile Project&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;AdamGhufron-LoginUser&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;adamghufrons@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Adam Ghufron&quot;,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/user?accountId\u003d5dfde7539a14250cb69f4b1a&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/MP-12/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://timbelajar1.atlassian.net/rest/api/2/issue/10031&quot;,&quot;key&quot;:&quot;MP-12&quot;,&quot;id&quot;:10031}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>42c3b562-19cd-409b-9734-30deb24c06f0</testCaseGuid>
+</TestCaseEntity>
